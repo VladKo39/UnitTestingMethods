@@ -1,5 +1,4 @@
 import unittest
-import inspect
 from runner_and_tournament import Runner, Tournament
 
 TestCase = unittest.TestCase
